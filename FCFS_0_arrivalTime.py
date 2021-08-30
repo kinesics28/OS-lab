@@ -1,7 +1,5 @@
 # create a python script to find average waiting time and 
 # average Turn around time of proccess by first come first serve scheduling
-# create a python script to find average waiting time and 
-# average Turn around time of proccess by first come first serve scheduling
 
 
 def findWaitingTime(processes,n,bt,wt):
@@ -36,6 +34,12 @@ def findAverageTime(processes,n,bt):
     for i in range(n):
         total_tat+=tat[i]
         total_wt+=wt[i]
+
+        #print the table
+    print("Process \t Burst time \t Waiting time \t Turn Around Time")
+    for i in range(n):
+        print(processes[i],'\t','\t','\t',bt[i],'\t','\t',wt[i],'\t','\t',tat[i])
+
 
     print("Average waiting time is",(total_wt/n))
     print("Average turn around time is",(total_tat/n))
