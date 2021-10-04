@@ -2,6 +2,9 @@
 
 Here im attaching screenshots of output of programs uploaded above
 
+## Best_fit.py
+![image](https://user-images.githubusercontent.com/65817564/135882006-b02290cc-981e-4013-9d14-3caccb291525.png)
+
 ## FCFS_0_arrivalTime.py
 ![image](https://user-images.githubusercontent.com/65817564/134628073-6b161ff2-2265-4b9c-9c4d-776d4f1dd789.png)
 
@@ -34,3 +37,6 @@ Here im attaching screenshots of output of programs uploaded above
 
 ## SJF_with_ArrivalTime.cpp
 ![image](https://user-images.githubusercontent.com/65817564/134630092-d4169667-b229-41c3-b07a-43ddfd4a7097.png)
+
+## Worst_fit.py
+![image](https://user-images.githubusercontent.com/65817564/135882181-4b3e9d39-bfe9-4fae-98b8-4e69e062c7ae.png)
