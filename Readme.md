@@ -8,6 +8,9 @@ Here im attaching screenshots of output of programs uploaded above
 ## FCFS_with_ArrivalTime.py
 ![image](https://user-images.githubusercontent.com/65817564/134628173-789c0e2f-b6da-4fd6-8405-0c9926a3781d.png)
 
+## FirstFit.cpp
+![image](https://user-images.githubusercontent.com/65817564/135859236-a82b3a1d-e810-413d-837f-177b31364523.png)
+
 ## Priority_non_preemptive.py
 ![image](https://user-images.githubusercontent.com/65817564/134628854-93bb74dc-daab-40ab-8d7e-cb9276e832a7.png)
 
